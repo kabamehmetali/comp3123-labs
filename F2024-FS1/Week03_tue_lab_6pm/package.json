@@ -1,0 +1,17 @@
+{
+  "name": "week03_tue_lab_6pm",
+  "version": "1.0.0",
+  "description": "Sample nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "server",
+    "week03"
+  ],
+  "author": "Mehmet Ali KABA",
+  "license": "ISC"
+}
